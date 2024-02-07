@@ -1,2 +1,2 @@
 # prep_course_henry
-Prep
+Es un curso de preparación para aprender programación
