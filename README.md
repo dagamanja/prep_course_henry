@@ -1,2 +1,2 @@
 # prep_course_henry
-Es un curso de preparación para aprender programación
+ESto es una prueba. Es un curso de preparación para aprender programación 
